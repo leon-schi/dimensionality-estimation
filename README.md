@@ -1,4 +1,4 @@
-# Experiments for A simple statistic for determining the dimensionality of complex networks
+# Code for 'Real-World Networks are Low-Dimensional: Theoretical and Practical Assessment'
 
 ## Data
 
